@@ -36,4 +36,4 @@ Interactive web dashboard built to demonstrate database skills, data handling, a
 3. `pip install streamlit pandas plotly`
 4. `streamlit run app.py`
 
-This project demonstrates working with SQL databases, data loading, filtering, and creating meaningful visualizations — skills directly relevant to Systems Analyst roles.
+This project demonstrates working with SQL databases, data loading, filtering, and creating meaningful visualizations 
